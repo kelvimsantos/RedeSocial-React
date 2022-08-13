@@ -11,6 +11,7 @@ return(<header className="header">
                 <div className="">
                     <button>novo post</button>
                     <span>img1</span>
+                    
                     <span>img2</span>
                 </div>
             </div>
